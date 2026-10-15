@@ -1,4 +1,4 @@
-# Neon POS (MERN + Tailwind)
+# POS (MERN + Tailwind)
 
 Point of sale with a register screen, inventory management, sales history and printable receipts.
 
